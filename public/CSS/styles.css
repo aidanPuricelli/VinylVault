@@ -1,0 +1,38 @@
+#vinyl {
+    width: 15%;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.logo img {
+    vertical-align: center;
+}
+
+
+.logo h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 35px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.navbar {
+    background-color: black;
+    padding: 1%;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+#home-btn {
+    float: right;
+    margin-right: 10px;
+}
